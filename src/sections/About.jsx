@@ -10,7 +10,7 @@ const About = () => {
     from prototype to production`;
   const aboutText = `I build AI-powered, fast and intuitive apps—from smart Chrome extensions to full-stack MERN platforms and automation agents. I love turning ideas into real, usable tools that feel smooth, modern, and genuinely helpful.
 
-When I’m not shipping something new:
+When I’m not shipping something new:   
 ⚡️ I'm experimenting with AI workflows and open-sourcing cool utilities
 🧠 Learning + building smarter dev tools that improve productivity
 🎮 Coding fun side-projects like games and interactive UIs
